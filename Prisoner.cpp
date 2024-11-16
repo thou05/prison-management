@@ -73,6 +73,7 @@ class Prisoner{
             return os;
         }
 
+        //toan tu so sanh thoi gian thu an
         bool operator <(Prisoner &other){
             return sentenceTime < other.sentenceTime;
         }
