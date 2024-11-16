@@ -1,0 +1,56 @@
+234
+thao
+femal
+2005-03-24
+ha noi
+choi da
+2023-12-24
+5
+3
+Tran Van C
+Male
+1995-10-30
+789 Hai Ba Trung, Da Nang
+Assault
+2023-01-20
+12
+1
+Nguyen Van A
+Male
+1990-01-15
+123 Nguyen Trai, Hanoi
+Theft
+2022-03-01
+24
+453
+thao thao
+emale
+2005-03-24
+me linh ha noi
+giet nguoi
+2024-10-11
+24
+432
+thao le
+female
+2005-03-25
+lai me linh ha noi
+giet nguoi
+2024-05-25
+32
+2
+Le Thi B
+Female
+1985-07-22
+456 Tran Hung Dao, Ho Chi Minh City
+Fraud
+2021-05-10
+36
+62005
+le van phong
+male
+2005-02-06
+vinh phuv
+qua dep trai
+2024-11-08
+36
